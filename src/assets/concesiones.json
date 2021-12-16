@@ -1,0 +1,50 @@
+[
+  {
+    "vac": "VAC-001",
+    "companyName": "Empresa 001",
+    "months": [
+      {
+        "number": 1,
+        "year": 2021,
+        "registeredTravels": 25,
+        "officialTravels": 25
+      },
+      {
+        "number": 2,
+        "year": 2021,
+        "registeredTravels": 25,
+        "officialTravels": 26
+      },
+      {
+        "number": 3,
+        "year": 2022,
+        "registeredTravels": 28,
+        "officialTravels": 28
+      }
+    ]
+  },
+  {
+    "vac": "VAC-002",
+    "companyName": "Empresa 002",
+    "months": [
+      {
+        "number": 1,
+        "year": 2021,
+        "registeredTravels": 25,
+        "officialTravels": 25
+      },
+      {
+        "number": 2,
+        "year": 2022,
+        "registeredTravels": 25,
+        "officialTravels": 26
+      },
+      {
+        "number": 3,
+        "year": 2022,
+        "registeredTravels": 28,
+        "officialTravels": 28
+      }
+    ]
+  }
+]
