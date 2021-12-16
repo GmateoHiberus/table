@@ -1,0 +1,62 @@
+[
+  {
+    "id": "010",
+    "sitranbusId": "010",
+    "name": "Madrid-Zaragoza",
+    "totalRegisteredTravels": 200,
+    "totalOfficialTravels": 200,
+    "months": [
+      {
+        "number": 1,
+        "year": 2022,
+        "registeredTravels": 30,
+        "officialTravels": 30,
+        "tickets": 50
+      },
+      {
+        "number": 2,
+        "year": 2022,
+        "registeredTravels": 40,
+        "officialTravels": 50,
+        "tickets": 70
+      },
+      {
+        "number": 3,
+        "year": 2022,
+        "registeredTravels": 20,
+        "officialTravels": 20,
+        "tickets": 80
+      }
+    ]
+  },
+    {
+    "id": 20,
+    "sitranbusId": 0,
+    "name": "Madrid-Sevilla",
+    "totalRegisteredTravels": 200,
+    "totalOfficialTravels": 200,
+    "months": [
+      {
+        "number": 1,
+        "year": 2022,
+        "registeredTravels": 30,
+        "officialTravels": 30,
+        "tickets": 50
+      },
+      {
+        "number": 2,
+        "year": 2022,
+        "registeredTravels": 40,
+        "officialTravels": 50,
+        "tickets": 70
+      },
+      {
+        "number": 3,
+        "year": 2022,
+        "registeredTravels": 20,
+        "officialTravels": 20,
+        "tickets": 80
+      }
+    ]
+  }
+]

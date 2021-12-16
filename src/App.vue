@@ -1,14 +1,22 @@
 <template>
-  <Table></Table>
+  <div class="container">
+  <TableCompany></TableCompany>
+  </div>
+  <div class="container1">
+  <TableRoutes></TableRoutes>
+  </div>
+  
 </template>
 
 <script>
-import Table from '@/components/table/Table'
+import TableCompany from '@/components/table/TableCompany'
+import TableRoutes from './components/table/TableRoutes.vue'
 
 export default {
   name: 'App',
   components: {
-    Table
+    TableCompany,
+    TableRoutes
     
   }
 }
@@ -22,5 +30,14 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.container{
+  display: flex;
+  justify-content: center
+}
+.container1{
+  display: flex;
+  justify-content: center;
+  margin: 600px;
 }
 </style>

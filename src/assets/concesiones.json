@@ -10,7 +10,7 @@
     "vac": "VAC-002",
     "companyName": "Empresa 002",
     "TravelSirde": 25,
-    "TravelSitranbus":25
+    "TravelSitranbus":26
     
   },
   {
@@ -23,7 +23,7 @@
   {
     "vac": "VAC-004",
     "companyName": "Empresa 004",
-    "TravelSirde": 25,
+    "TravelSirde": 27,
     "TravelSitranbus":25
     
   },
@@ -61,5 +61,49 @@
     "TravelSirde": 25,
     "TravelSitranbus":25
     
+  },
+  {
+    "vac": "VAC-010",
+    "companyName": "Empresa 010",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
+  },
+  {
+    "vac": "VAC-011",
+    "companyName": "Empresa 011",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
+  },
+  {
+    "vac": "VAC-012",
+    "companyName": "Empresa 012",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
+  },
+  {
+    "vac": "VAC-013",
+    "companyName": "Empresa 013",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
+  },
+  {
+    "vac": "VAC-014",
+    "companyName": "Empresa 014",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
+  },
+  {
+    "vac": "VAC-015",
+    "companyName": "Empresa 015",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
+  },
+  {
+    "vac": "VAC-014",
+    "companyName": "Empresa 016",
+    "TravelSirde": 25,
+    "TravelSitranbus":25
   }
+    
+  
 ]
