@@ -1,23 +1,22 @@
 <template>
   <div class="container">
-  <TableCompany></TableCompany>
+    <TableCompany></TableCompany>
   </div>
   <div class="container1">
-  <TableRoutes></TableRoutes>
+    <!-- <TableRoutes></TableRoutes> -->
   </div>
-  
 </template>
 
 <script>
 import TableCompany from '@/components/table/TableCompany'
-import TableRoutes from './components/table/TableRoutes.vue'
+// import TableRoutes from './components/table/TableRoutes.vue'
 
 export default {
   name: 'App',
   components: {
     TableCompany,
-    TableRoutes
-    
+    // TableRoutes
+
   }
 }
 </script>
@@ -31,11 +30,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-.container{
+.container {
   display: flex;
-  justify-content: center
+  justify-content: center;
 }
-.container1{
+.container1 {
   display: flex;
   justify-content: center;
   margin: 600px;
