@@ -1,61 +1,265 @@
 [
   {
-    "id": "010",
-    "sitranbusId": "010",
-    "name": "Madrid-Zaragoza",
-    "totalRegisteredTravels": 200,
-    "totalOfficialTravels": 200,
-    "months": [
+    "router" : "Malaga-Madrid",
+    "official" : false,
+    "months" : [
       {
-        "number": 1,
-        "year": 2022,
-        "registeredTravels": 30,
-        "officialTravels": 30,
-        "tickets": 50
+        "id" : 0,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
       },
       {
-        "number": 2,
-        "year": 2022,
-        "registeredTravels": 40,
-        "officialTravels": 50,
-        "tickets": 70
+        "id" : 1,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
       },
       {
-        "number": 3,
-        "year": 2022,
-        "registeredTravels": 20,
-        "officialTravels": 20,
-        "tickets": 80
+        "id" : 2,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 3,
+        "travelSirde" : 10,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 4,
+        "travelSirde" : 80,
+        "travelSitranbus" : 80
+      },
+      {
+        "id" : 5,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 6,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 7,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 8,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 9,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 10,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 11,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
       }
     ]
   },
-    {
-    "id": 20,
-    "sitranbusId": 0,
-    "name": "Madrid-Sevilla",
-    "totalRegisteredTravels": 200,
-    "totalOfficialTravels": 200,
-    "months": [
+  {
+    "router" : "Granada-Almería",
+    "official" : false,
+    "months" : [
       {
-        "number": 1,
-        "year": 2022,
-        "registeredTravels": 30,
-        "officialTravels": 30,
-        "tickets": 50
+        "id" : 0,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
       },
       {
-        "number": 2,
-        "year": 2022,
-        "registeredTravels": 40,
-        "officialTravels": 50,
-        "tickets": 70
+        "id" : 1,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
       },
       {
-        "number": 3,
-        "year": 2022,
-        "registeredTravels": 20,
-        "officialTravels": 20,
-        "tickets": 80
+        "id" : 2,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 3,
+        "travelSirde" : 10,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 4,
+        "travelSirde" : 80,
+        "travelSitranbus" : 80
+      },
+      {
+        "id" : 5,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 6,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 7,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 8,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 9,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 10,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 11,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      }
+    ]
+  },
+  {
+    "router" : "Zaragoza-Bilbao",
+    "official" : true,
+    "months" : [
+      {
+        "id" : 0,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 1,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 2,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 3,
+        "travelSirde" : 10,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 4,
+        "travelSirde" : 80,
+        "travelSitranbus" : 80
+      },
+      {
+        "id" : 5,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 6,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 7,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 8,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 9,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 10,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 11,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      }
+    ]
+  },
+  {
+    "router" : "Madrid-Barcelona",
+    "official" : true,
+    "months" : [
+      {
+        "id" : 0,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 1,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 2,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 3,
+        "travelSirde" : 10,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 4,
+        "travelSirde" : 80,
+        "travelSitranbus" : 80
+      },
+      {
+        "id" : 5,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 6,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 7,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 8,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
+      },
+      {
+        "id" : 9,
+        "travelSirde" : 25,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 10,
+        "travelSirde" : 35,
+        "travelSitranbus" : 25
+      },
+      {
+        "id" : 11,
+        "travelSirde" : 60,
+        "travelSitranbus" : 60
       }
     ]
   }
