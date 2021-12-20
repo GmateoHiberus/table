@@ -1,25 +1,13 @@
 <template>
   <div class="container">
-  <TableCompany></TableCompany>
+  <TablaEasyVue></TablaEasyVue>
   </div>
-  <div class="container1">
-  <TableRoutes></TableRoutes>
-  </div>
-  
 </template>
 
-<script>
-import TableCompany from '@/components/table/TableCompany'
-import TableRoutes from './components/table/TableRoutes.vue'
+<script setup>import TablaEasyVue from './components/table/TablaEasy.vue';
 
-export default {
-  name: 'App',
-  components: {
-    TableCompany,
-    TableRoutes
-    
-  }
-}
+
+
 </script>
 
 <style>
